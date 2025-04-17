@@ -1,45 +1,52 @@
-# 🚀 Embedded Systems Trainee | EV Developer | LabVIEW Certified | C/C++ & Python | TCP/IP | Linux | ARM7
+## Hi there 👋 I'm Dilip!
 
-💡 Turning real-world challenges into scalable embedded solutions
-
-Hi, I'm **Dilip** – an Electrical & Electronics Engineer deeply passionate about **embedded systems, automotive technology, and electric mobility**. Whether it’s building a CAN-enabled Body Control Module or simulating EV performance in MATLAB — I’m all in.
-
-🔧 **Currently training at Vector India**, I'm mastering advanced embedded development, real-time systems, and TCP/IP socket programming on Linux platforms.
+💡 I'm an Electrical & Electronics Engineer passionate about embedded systems, automotive tech, and electric mobility.  
+🔧 Currently training at **Vector India**, sharpening my skills in embedded development, real-time systems, and TCP/IP programming on Linux platforms.
 
 ---
 
-### 💻 Tech Stack
+### 🚀 What I Do
+
+- ⚙️ Embedded Firmware Development (C, C++, ARM7, ARM Cortex-M)
+- 🔌 CAN-based Automotive Systems
+- 💻 Python GUI & Inventory Tools
+- ⚡ EV Modeling using MATLAB/Simulink
+- 🎛️ LabVIEW Automation (CLAD Certified)
+
+---
+
+### 🔩 Core Hardware & Software Skills
 
 `C` | `Embedded C` | `C++` | `Python` | `LabVIEW (CLAD)` | `MATLAB/Simulink`  
-`ARM7` | `8051` | `CAN` | `I2C` | `SPI` | `UART` | `TCP/IP` | `Linux IPC` | `STM32` | `ARMCORTEX-M` |
-**Tools:** Keil IDE, GDB, Flash Magic, NI LabVIEW, GitHub, Ubuntu, Proteus, STM32CubeIDE, 
+`ARM7` | `8051` | `CAN` | `I2C` | `SPI` | `UART` | `TCP/IP` | `Linux IPC` |`ARMCORTEX-M` |
+
+**Tools:** Keil IDE, GDB, Flash Magic, NI LabVIEW, GitHub, Ubuntu, Proteus, STM32CubeIDE
 
 ---
 
-### 🛠️ Featured Projects
+### 🛠️ Projects I'm Proud Of
 
 - ⚡ *Eco-Friendly Electric TVS XL Retrofit*
-- 🚘 *Automotive Body Control Module (CAN)* – ARM7-based wiper/indicator automation
-- 🛒 *Smart Trolley* – RFID-based automated billing system
-- 📦 *Accessories Management System* – Python + SQLite inventory automation
+- 🚘 *Automotive Body Control Module (CAN)*
+- 🛒 *Smart Trolley with RFID Billing*
+- 📦 *Accessories Management System with Python + SQLite*
 
 ---
 
 ### 🏆 Certifications & Highlights
 
-- ✅ CLAD (Certified LabVIEW Associate Developer)
-- 🧠 NPTEL: Fuzzy Logic, IoT, EV
-- 🏁 EV Simulation & Control Intern – APSIS Solutions
-- 🔌 Electrical Panel Wiring Intern – GEES
-- 📃 Published in IJRAR: *“Eco-Friendly Retrofit Electric TVS XL Moped”*
+- ✅ Certified LabVIEW Associate Developer (CLAD)
+- 🧠 NPTEL: Fuzzy Logic, IoT, Electric Vehicles
+- 🛠️ Internship at APSIS Solutions – EV Simulation
+- 🧰 Electrical Panel Wiring Intern – GEES
+- 📰 Published: *“Eco-Friendly Retrofit Electric TVS XL Moped”* – IJRAR
 
 ---
 
-### 🧠 Core Values
+### 🤝 Let's Connect
 
-Teamwork • Curiosity • Impact-Driven Innovation • Quick Learning
-
-Let’s build something that matters.  
-🔗 [LinkedIn](https://www.linkedin.com/in/dilip-r) | 📬 [Email](mailto:dilipraman4@gmail.com) | 💻 [GitHub](https://github.com/dilipraman)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/dilip-r)
+- 📬 [Email](mailto:dilipraman4@gmail.com)
+- 💻 [GitHub](https://github.com/dilipraman)
 
 > *"Embedded minds power the world’s smartest machines."*
